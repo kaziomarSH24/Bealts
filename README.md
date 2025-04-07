@@ -1,3 +1,3 @@
 # Bealts
 
-Live preview : https://kaziomar144.github.io/Bealts/
+Live preview : https://kaziomarsh24.github.io/Bealts/
